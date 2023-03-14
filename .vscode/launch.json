@@ -1,0 +1,63 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Op_Logicos",
+      "request": "launch",
+      "mainClass": "Java_Basico.Operadores.Op_Logicos",
+      "projectName": "Sintaxe-JAVA_aec85d5c"
+    },
+    {
+      "type": "java",
+      "name": "Op_Relacionais",
+      "request": "launch",
+      "mainClass": "Java_Basico.Operadores.Op_Relacionais",
+      "projectName": "Sintaxe-JAVA_aec85d5c"
+    },
+    {
+      "type": "java",
+      "name": "Op_Ternários",
+      "request": "launch",
+      "mainClass": "Java_Basico.Operadores.Op_Ternários",
+      "projectName": "Sintaxe-JAVA_aec85d5c"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "AnatomiaClasses",
+      "request": "launch",
+      "mainClass": "Java_Basico.Anatomia_de_Classes.AnatomiaClasses",
+      "projectName": "Sintaxe-JAVA_aec85d5c"
+    },
+    {
+      "type": "java",
+      "name": "Op_Unarios",
+      "request": "launch",
+      "mainClass": "Java_Basico.Operadores.Op_Unarios",
+      "projectName": "Sintaxe-JAVA_aec85d5c"
+    },
+    {
+      "type": "java",
+      "name": "Operadores",
+      "request": "launch",
+      "mainClass": "Java_Basico.Operadores.Operadores",
+      "projectName": "Sintaxe-JAVA_aec85d5c"
+    },
+    {
+      "type": "java",
+      "name": "Tipos_de_Variaveis",
+      "request": "launch",
+      "mainClass": "Java_Basico.Tipos_de_Variaveis.Tipos_de_Variaveis",
+      "projectName": "Sintaxe-JAVA_aec85d5c"
+    }
+  ]
+}
