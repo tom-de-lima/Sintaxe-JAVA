@@ -1,4 +1,4 @@
-package Tipos_de_Variaveis;
+package Java_Basico.Tipos_de_Variaveis;
 
 public class Tipos_de_Variaveis {
     

@@ -1,4 +1,4 @@
-package Anatomia_de_Classes;
+package Java_Basico.Anatomia_de_Classes;
 
 public class AnatomiaClasses {
     
