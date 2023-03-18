@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Escopo",
+      "request": "launch",
+      "mainClass": "Java_Basico.Escopo.Escopo",
+      "projectName": "Sintaxe-JAVA_aec85d5c"
+    },
+    {
+      "type": "java",
       "name": "UsuarioTV",
       "request": "launch",
       "mainClass": "Java_Basico.Metodos.UsuarioTV",
